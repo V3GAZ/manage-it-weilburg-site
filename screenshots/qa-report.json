@@ -1,0 +1,154 @@
+{
+  "sizes": [
+    {
+      "width": 320,
+      "height": 700,
+      "scrollWidth": 320,
+      "clientWidth": 320,
+      "h1Rect": {
+        "x": 20,
+        "y": 179,
+        "width": 280,
+        "height": 143.09375
+      },
+      "heroButtonsVisible": true,
+      "menuVisible": true,
+      "errors": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "scrollWidth": 375,
+      "clientWidth": 375,
+      "h1Rect": {
+        "x": 20,
+        "y": 179,
+        "width": 335,
+        "height": 169.390625
+      },
+      "heroButtonsVisible": true,
+      "menuVisible": true,
+      "errors": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "h1Rect": {
+        "x": 20,
+        "y": 165,
+        "width": 350,
+        "height": 176.09375
+      },
+      "heroButtonsVisible": true,
+      "menuVisible": true,
+      "errors": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "scrollWidth": 430,
+      "clientWidth": 430,
+      "h1Rect": {
+        "x": 20,
+        "y": 165,
+        "width": 390,
+        "height": 193.953125
+      },
+      "heroButtonsVisible": true,
+      "menuVisible": true,
+      "errors": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "h1Rect": {
+        "x": 33.40625,
+        "y": 225,
+        "width": 701.1875,
+        "height": 219.5625
+      },
+      "heroButtonsVisible": true,
+      "menuVisible": true,
+      "errors": []
+    },
+    {
+      "width": 834,
+      "height": 1112,
+      "scrollWidth": 834,
+      "clientWidth": 834,
+      "h1Rect": {
+        "x": 36.265625,
+        "y": 225,
+        "width": 761.46875,
+        "height": 238.171875
+      },
+      "heroButtonsVisible": true,
+      "menuVisible": true,
+      "errors": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "scrollWidth": 1024,
+      "clientWidth": 1024,
+      "h1Rect": {
+        "x": 44.53125,
+        "y": 212,
+        "width": 376.265625,
+        "height": 209.890625
+      },
+      "heroButtonsVisible": true,
+      "menuVisible": true,
+      "errors": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "scrollWidth": 1366,
+      "clientWidth": 1366,
+      "h1Rect": {
+        "x": 59.40625,
+        "y": 239.921875,
+        "width": 446,
+        "height": 243.75
+      },
+      "heroButtonsVisible": true,
+      "menuVisible": false,
+      "errors": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "h1Rect": {
+        "x": 62.625,
+        "y": 281.8125,
+        "width": 470.171875,
+        "height": 256.78125
+      },
+      "heroButtonsVisible": true,
+      "menuVisible": false,
+      "errors": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "scrollWidth": 1920,
+      "clientWidth": 1920,
+      "h1Rect": {
+        "x": 270,
+        "y": 267.171875,
+        "width": 454.796875,
+        "height": 297.25
+      },
+      "heroButtonsVisible": true,
+      "menuVisible": false,
+      "errors": []
+    }
+  ]
+}
